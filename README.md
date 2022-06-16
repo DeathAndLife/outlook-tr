@@ -1,1 +1,1 @@
-[Deploy Heroku](dashboard.heroku.com/new?template=https://github.com/DeathAndLife/outlook-tr)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
